@@ -10,7 +10,10 @@
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=185](https://web.archive.org/web/20110320085915/http://www.universalthread.com/ViewPageArticle.aspx?ID=162)
 
 - The New features of C# 3 and VB 9 compilers (2007) 
-  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=162](http://www.universalthread.com/ViewPageArticle.aspx?ID=162)
+  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=162](https://web.archive.org/web/20110320085915/http://www.universalthread.com/ViewPageArticle.aspx?ID=162)
+
+- An Introduction to Linq to XML 
+-  UniversalThread Magazine - [https://www.universalthread.com/ViewPageArticle.aspx?ID=68](https://web.archive.org/web/20150619084211/https://www.universalthread.com/ViewPageArticle.aspx?ID=68)
 
 - Real World Transformations Using Linq to Xml (XLinq) (2006) 
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=93](http://www.universalthread.com/ViewPageArticle.aspx?ID=93)
@@ -40,7 +43,7 @@
   - Rapozine – Edição 11 – Ano 01 
 
 - Coverage of PDC 2002 in Brazil (2002)  
-  - UniversalThread Magazine. Vol. 2 No. 1 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=715](http://www.universalthread.com/ViewPageArticle.aspx?ID=715)
+  - UniversalThread Magazine. Vol. 2 No. 1 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=715](https://web.archive.org/web/20150619084427/https://www.universalthread.com/ViewPageArticle.aspx?ID=715)
 
 
 ## TALKS  
