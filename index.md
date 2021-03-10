@@ -1,8 +1,5 @@
 ## Fabio Vazquez
 
-```markdown
-Syntax highlighted code block
-
 #PUBLISHED BOOKS 
 
 Visual FoxPro 8 para Desenvolvedores (2003) 
@@ -160,4 +157,4 @@ Porto Alegre – RS, Brazil
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
