@@ -1,57 +1,57 @@
-## BOOKS 
+**## BOOKS 
 
-- Visual FoxPro 8 para Desenvolvedores (2003) - Axcel Books (Brazil) - [Amazon.com.br](https://www.amazon.com.br/Visual-Foxpro-8-Para-Desenvolvedores/dp/8573231971/ref=sr_1_1?dchild=1&qid=1615351890&refinements=p_27%3AVazquez+Fabio&s=books&sr=1-1&text=Vazquez+Fabio)
+- **Visual FoxPro 8 para Desenvolvedores (2003)** - Axcel Books (Brazil) - [Amazon.com.br](https://www.amazon.com.br/Visual-Foxpro-8-Para-Desenvolvedores/dp/8573231971/ref=sr_1_1?dchild=1&qid=1615351890&refinements=p_27%3AVazquez+Fabio&s=books&sr=1-1&text=Vazquez+Fabio)
 
 ![vfp8](/book_vfp8.jpg)
 
-- Desenvolvendo Soluções XML com Visual FoxPro (2002) - Axcel Books (Brazil) - [Amazon.com.br](https://www.amazon.com.br/Desenvolvendo-Solu%C3%A7%C3%B5es-Xml-Visual-Foxpro/dp/8573231777)
+- **Desenvolvendo Soluções XML com Visual FoxPro (2002)** - Axcel Books (Brazil) - [Amazon.com.br](https://www.amazon.com.br/Desenvolvendo-Solu%C3%A7%C3%B5es-Xml-Visual-Foxpro/dp/8573231777)
 
 ![Desenvolvendo](/book_desenvolvendo.jpg)
 
 
 ## ARTICLES 
 
-- LINQ to SQL - When the Query Language Meets an OR Mapper (2007) 
+- **LINQ to SQL - When the Query Language Meets an OR Mapper** (2007) 
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=185](https://web.archive.org/web/20150324090326/https://www.universalthread.com/ViewPageArticle.aspx?ID=185)
 
-- The New features of C# 3 and VB 9 compilers (2007) 
+- **The New features of C# 3 and VB 9 compilers** (2007) 
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=162](https://web.archive.org/web/20110320085915/http://www.universalthread.com/ViewPageArticle.aspx?ID=162)
 
-- An Introduction to Linq to XML 
+- **An Introduction to Linq to XML** 
 -  UniversalThread Magazine - [https://www.universalthread.com/ViewPageArticle.aspx?ID=68](https://web.archive.org/web/20150619084211/https://www.universalthread.com/ViewPageArticle.aspx?ID=68)
 
-- Real World Transformations Using Linq to Xml (XLinq) (2006) 
+- **Real World Transformations Using Linq to Xml (XLinq)** (2006) 
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=93](https://web.archive.org/web/20150618204253/https://www.universalthread.com/ViewPageArticle.aspx?ID=93)
 
-- MSBuild: Automating the Build Process of .NET Applications (2006) 
+- **MSBuild: Automating the Build Process of .NET Applications** (2006) 
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=61](https://web.archive.org/web/20150619083839/https://www.universalthread.com/ViewPageArticle.aspx?ID=61)
 
-- XPath sem Traumas (2005)
+- **XPath sem Traumas** (2005)
   - MSDN Magazine Brasil. 16ª. Edição 
  
-- What’s New in Visual FoxPro 9 Beta (2004) 
+- **What’s New in Visual FoxPro 9 Beta** (2004) 
   - Universal Thread Magazine. Vol. 4 No. 2 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=343](https://web.archive.org/web/20150619084150/https://www.universalthread.com/ViewPageArticle.aspx?ID=343)
  
-- As Novidades do VFP 8 pela Ótica dos Profissionais (2003) 
+- **As Novidades do VFP 8 pela Ótica dos Profissionais** (2003) 
   - Developers’ CIO Magazine. Ano 7. Nº 82. - ISSN 1413-9154 
 
-- Presenting XML Content in .NET (2003) 
+- **Presenting XML Content in .NET** (2003) 
   - Universal Thread Magazine. Vol. 2 No. 11. - [http://www.universalthread.com/ViewPageArticle.aspx?ID=632](http://www.universalthread.com/ViewPageArticle.aspx?ID=632)
 
-- Introduzindo XML para Programadores VFP – Parte II (2002) 
+- **Introduzindo XML para Programadores VFP – Parte II** (2002) 
   - Microsoft MSDN Brazil 
 
-- Introducing XML for VFP Developers – Part II (2002) 
+- **Introducing XML for VFP Developers – Part II** (2002) 
   - UniversalThread Magazine. Vol. 1 No. 10 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=741](https://web.archive.org/web/20150619084033/https://www.universalthread.com/ViewPageArticle.aspx?ID=741)
 
-- XML para Raposas – Parte I (2002) 
+- **XML para Raposas – Parte I** (2002) 
   - Rapozine – Edição 11 – Ano 01 
 
-- Coverage of PDC 2002 in Brazil (2002)  
+- **Coverage of PDC 2002 in Brazil** (2002)  
   - UniversalThread Magazine. Vol. 2 No. 1 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=715](https://web.archive.org/web/20150619084427/https://www.universalthread.com/ViewPageArticle.aspx?ID=715)
 
 
-## TALKS  
+## **TALKS  
  
 - Improving Your Code (2011) 
   - TechEd Brazil 2011 (co-presented with Cezar Guimaraes) - Sao Paulo – SP, Brazil 
