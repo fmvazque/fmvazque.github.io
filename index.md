@@ -1,15 +1,13 @@
-## PUBLISHED BOOKS 
+## BOOKS 
 
 - Visual FoxPro 8 para Desenvolvedores (2003) - Axcel Books (Brazil) 
 - Desenvolvendo Soluções XML com Visual FoxPro (2002) - Axcel Books (Brazil) 
 
- 
 
-## PUBLISHED ARTICLES 
+## ARTICLES 
 
 - LINQ to SQL - When the Query Language Meets an OR Mapper (2007) 
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=185](http://www.universalthread.com/ViewPageArticle.aspx?ID=185)
-
 
 - The New features of C# 3 and VB 9 compilers (2007) 
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=162](http://www.universalthread.com/ViewPageArticle.aspx?ID=162)
@@ -71,17 +69,14 @@
 - Plataforma .NET – Uma alternativa para o meio acadêmico (2004) 
   - Universidade de Caxias do Sul – RS, Brazil 
 
-
 - O Que Está por vir no Visual FoxPro 9.0 (2004) 
   - PDC 2004 (Microsoft Professional Developers Conference) - São Paulo - SP, Brazil 
-
 
 - Lançamento Oficial do Visual FoxPro 8 no Brasil (2003) 
   - Microsoft – São Paulo - SP, Brazil 
  
 - Seminário de Visual FoxPro (2003) 
   - Rio de Janeiro - RJ, Brazil 
-
 
 - 2o. Encontro de Desenvolvedores VFP do Sul do Brasil (2003) 
   - Porto Alegre – RS, Brazil 
