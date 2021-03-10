@@ -3,7 +3,7 @@
 ```markdown
 Syntax highlighted code block
 
-# PUBLISHED BOOKS 
+#PUBLISHED BOOKS 
 
 Visual FoxPro 8 para Desenvolvedores (2003) 
 Axcel Books (Brazil) 
@@ -14,7 +14,7 @@ Axcel Books (Brazil)
 
  
 
-# PUBLISHED ARTICLES 
+#PUBLISHED ARTICLES 
 
 LINQ to SQL - When the Query Language Meets an OR Mapper (2007) 
 LevelExtreme.Net Magazine 
@@ -77,7 +77,7 @@ http://www.universalthread.com/ViewPageArticle.aspx?ID=715
 
  
 
-# TALKS  
+#TALKS  
  
 
 Improving Your Code (2011) 
