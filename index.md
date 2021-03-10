@@ -7,7 +7,7 @@
 ## ARTICLES 
 
 - LINQ to SQL - When the Query Language Meets an OR Mapper (2007) 
-  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=185](https://web.archive.org/web/20110320085915/http://www.universalthread.com/ViewPageArticle.aspx?ID=162)
+  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=185](https://web.archive.org/web/20150324090326/https://www.universalthread.com/ViewPageArticle.aspx?ID=185)
 
 - The New features of C# 3 and VB 9 compilers (2007) 
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=162](https://web.archive.org/web/20110320085915/http://www.universalthread.com/ViewPageArticle.aspx?ID=162)
@@ -16,16 +16,16 @@
 -  UniversalThread Magazine - [https://www.universalthread.com/ViewPageArticle.aspx?ID=68](https://web.archive.org/web/20150619084211/https://www.universalthread.com/ViewPageArticle.aspx?ID=68)
 
 - Real World Transformations Using Linq to Xml (XLinq) (2006) 
-  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=93](http://www.universalthread.com/ViewPageArticle.aspx?ID=93)
+  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=93](https://web.archive.org/web/20150618204253/https://www.universalthread.com/ViewPageArticle.aspx?ID=93)
 
 - MSBuild: Automating the Build Process of .NET Applications (2006) 
-  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=61](http://www.universalthread.com/ViewPageArticle.aspx?ID=61)
+  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=61](https://web.archive.org/web/20150619083839/https://www.universalthread.com/ViewPageArticle.aspx?ID=61)
 
 - XPath sem Traumas (2005)
   - MSDN Magazine Brasil. 16ª. Edição 
  
 - What’s New in Visual FoxPro 9 Beta (2004) 
-  - Universal Thread Magazine. Vol. 4 No. 2 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=343](http://www.universalthread.com/ViewPageArticle.aspx?ID=343)
+  - Universal Thread Magazine. Vol. 4 No. 2 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=343](https://web.archive.org/web/20150619084150/https://www.universalthread.com/ViewPageArticle.aspx?ID=343)
  
 - As Novidades do VFP 8 pela Ótica dos Profissionais (2003) 
   - Developers’ CIO Magazine. Ano 7. Nº 82. - ISSN 1413-9154 
@@ -37,7 +37,7 @@
   - Microsoft MSDN Brazil 
 
 - Introducing XML for VFP Developers – Part II (2002) 
-  - UniversalThread Magazine. Vol. 1 No. 10 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=741](http://www.universalthread.com/ViewPageArticle.aspx?ID=741)
+  - UniversalThread Magazine. Vol. 1 No. 10 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=741](https://web.archive.org/web/20150619084033/https://www.universalthread.com/ViewPageArticle.aspx?ID=741)
 
 - XML para Raposas – Parte I (2002) 
   - Rapozine – Edição 11 – Ano 01 
