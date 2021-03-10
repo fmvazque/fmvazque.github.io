@@ -12,37 +12,37 @@
 
 
 - The New features of C# 3 and VB 9 compilers (2007) 
-  - LevelExtreme.Net Magazine - http://www.universalthread.com/ViewPageArticle.aspx?ID=162 
+  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=162](http://www.universalthread.com/ViewPageArticle.aspx?ID=162)
 
 - Real World Transformations Using Linq to Xml (XLinq) (2006) 
-  - LevelExtreme.Net Magazine - http://www.universalthread.com/ViewPageArticle.aspx?ID=93 
+  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=93](http://www.universalthread.com/ViewPageArticle.aspx?ID=93)
 
 - MSBuild: Automating the Build Process of .NET Applications (2006) 
-  - LevelExtreme.Net Magazine - http://www.universalthread.com/ViewPageArticle.aspx?ID=61 
+  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=61](http://www.universalthread.com/ViewPageArticle.aspx?ID=61)
 
 - XPath sem Traumas (2005)
   - MSDN Magazine Brasil. 16ª. Edição 
  
 - What’s New in Visual FoxPro 9 Beta (2004) 
-  - Universal Thread Magazine. Vol. 4 No. 2 - http://www.universalthread.com/ViewPageArticle.aspx?ID=343 
+  - Universal Thread Magazine. Vol. 4 No. 2 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=343](http://www.universalthread.com/ViewPageArticle.aspx?ID=343)
  
 - As Novidades do VFP 8 pela Ótica dos Profissionais (2003) 
   - Developers’ CIO Magazine. Ano 7. Nº 82. - ISSN 1413-9154 
 
 - Presenting XML Content in .NET (2003) 
-  - Universal Thread Magazine. Vol. 2 No. 11. - http://www.universalthread.com/ViewPageArticle.aspx?ID=632 
+  - Universal Thread Magazine. Vol. 2 No. 11. - [http://www.universalthread.com/ViewPageArticle.aspx?ID=632](http://www.universalthread.com/ViewPageArticle.aspx?ID=632)
 
 - Introduzindo XML para Programadores VFP – Parte II (2002) 
   - Microsoft MSDN Brazil 
 
 - Introducing XML for VFP Developers – Part II (2002) 
-  - UniversalThread Magazine. Vol. 1 No. 10 - http://www.universalthread.com/ViewPageArticle.aspx?ID=741 
+  - UniversalThread Magazine. Vol. 1 No. 10 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=741](http://www.universalthread.com/ViewPageArticle.aspx?ID=741)
 
 - XML para Raposas – Parte I (2002) 
   - Rapozine – Edição 11 – Ano 01 
 
 - Coverage of PDC 2002 in Brazil (2002)  
-  - UniversalThread Magazine. Vol. 2 No. 1 - http://www.universalthread.com/ViewPageArticle.aspx?ID=715 
+  - UniversalThread Magazine. Vol. 2 No. 1 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=715](http://www.universalthread.com/ViewPageArticle.aspx?ID=715)
 
 
 ## TALKS  
