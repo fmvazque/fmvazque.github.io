@@ -1,4 +1,4 @@
-**## BOOKS 
+## BOOKS 
 
 - **Visual FoxPro 8 para Desenvolvedores (2003)** - Axcel Books (Brazil) - [Amazon.com.br](https://www.amazon.com.br/Visual-Foxpro-8-Para-Desenvolvedores/dp/8573231971/ref=sr_1_1?dchild=1&qid=1615351890&refinements=p_27%3AVazquez+Fabio&s=books&sr=1-1&text=Vazquez+Fabio)
 
@@ -51,51 +51,50 @@
   - UniversalThread Magazine. Vol. 2 No. 1 - [http://www.universalthread.com/ViewPageArticle.aspx?ID=715](https://web.archive.org/web/20150619084427/https://www.universalthread.com/ViewPageArticle.aspx?ID=715)
 
 
-## **TALKS  
+## TALKS  
  
-- Improving Your Code (2011) 
+- **Improving Your Code** (2011) 
   - TechEd Brazil 2011 (co-presented with Cezar Guimaraes) - Sao Paulo – SP, Brazil 
 
-- Build Automation with VS Team System (2009) 
+- **Build Automation with VS Team System** (2009) 
   - TechEd Brazil 2009 (co-presented with Eduardo Miranda) - Sao Paulo – SP, Brazil 
 
-- Unit Testing – Patterns and Practices (2009) 
+- **Unit Testing – Patterns and Practices** (2009) 
   - TechEd Brazil 2009 (co-presented with Cezar Guimaraes) - Sao Paulo – SP, Brazil 
 
-- .NET e SOA (Service Oriented Architecture) (2006) 
+- **.NET e SOA (Service Oriented Architecture)** (2006) 
   - Universidade São Camilo  - Cachoeiro do Itapemirim – ES, Brazil 
 
-- Xlinq – XML antes e depois do Xlinq (2006) 
+- **Xlinq – XML antes e depois do Xlinq** (2006) 
   - BIT2006 – Evento Baboo de Tecnologia - São Paulo - SP, Brazil 
 
-- MSBuild: Automatizando o Processo de Construção de Aplicações .NET (2005) 
+- **MSBuild: Automatizando o Processo de Construção de Aplicações .NET** (2005) 
   - Microsoft Tech-Ed 2005 - São Paulo - SP, Brazil 
 
-- Segurança de Código em .NET (2005) 
+- **Segurança de Código em .NET** (2005) 
   - Universidade de Vila Velha - ES, Brazil 
  
-- Plataforma .NET – Uma alternativa para o meio acadêmico (2004) 
+- **Plataforma .NET – Uma alternativa para o meio acadêmico** (2004) 
   - Universidade de Caxias do Sul – RS, Brazil 
 
-- O Que Está por vir no Visual FoxPro 9.0 (2004) 
+- **O Que Está por vir no Visual FoxPro 9.0** (2004) 
   - PDC 2004 (Microsoft Professional Developers Conference) - São Paulo - SP, Brazil 
 
-- Lançamento Oficial do Visual FoxPro 8 no Brasil (2003) 
+- **Lançamento Oficial do Visual FoxPro 8 no Brasil** (2003) 
   - Microsoft – São Paulo - SP, Brazil 
  
-- Seminário de Visual FoxPro (2003) 
+- **Seminário de Visual FoxPro** (2003) 
   - Rio de Janeiro - RJ, Brazil 
 
-- 2o. Encontro de Desenvolvedores VFP do Sul do Brasil (2003) 
+- **2o. Encontro de Desenvolvedores VFP do Sul do Brasil** (2003) 
   - Porto Alegre – RS, Brazil 
  
-- 1o. Encontro de Desenvolvedores VFP de São Paulo (2002) 
+- **1o. Encontro de Desenvolvedores VFP de São Paulo** (2002) 
   - São Paulo - SP, Brazil 
  
-- 1o. Encontro de Desenvolvedores VFP de Minas Gerais (2002) 
+- **1o. Encontro de Desenvolvedores VFP de Minas Gerais** (2002) 
   - Belo Horizonte - MG, Brazil 
  
-- 1o. Encontro de Desenvolvedores VFP do Sul do Brasil (2002) 
+- **1o. Encontro de Desenvolvedores VFP do Sul do Brasil** (2002) 
   - Porto Alegre – RS, Brazil 
-
 
