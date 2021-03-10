@@ -7,7 +7,7 @@
 ## ARTICLES 
 
 - LINQ to SQL - When the Query Language Meets an OR Mapper (2007) 
-  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=185](http://www.universalthread.com/ViewPageArticle.aspx?ID=185)
+  - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=185](https://web.archive.org/web/20110320085915/http://www.universalthread.com/ViewPageArticle.aspx?ID=162)
 
 - The New features of C# 3 and VB 9 compilers (2007) 
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=162](http://www.universalthread.com/ViewPageArticle.aspx?ID=162)
