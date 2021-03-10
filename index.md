@@ -18,7 +18,7 @@
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=162](https://web.archive.org/web/20110320085915/http://www.universalthread.com/ViewPageArticle.aspx?ID=162)
 
 - **An Introduction to Linq to XML** 
--  UniversalThread Magazine - [https://www.universalthread.com/ViewPageArticle.aspx?ID=68](https://web.archive.org/web/20150619084211/https://www.universalthread.com/ViewPageArticle.aspx?ID=68)
+  - UniversalThread Magazine - [https://www.universalthread.com/ViewPageArticle.aspx?ID=68](https://web.archive.org/web/20150619084211/https://www.universalthread.com/ViewPageArticle.aspx?ID=68)
 
 - **Real World Transformations Using Linq to Xml (XLinq)** (2006) 
   - LevelExtreme.Net Magazine - [http://www.universalthread.com/ViewPageArticle.aspx?ID=93](https://web.archive.org/web/20150618204253/https://www.universalthread.com/ViewPageArticle.aspx?ID=93)
