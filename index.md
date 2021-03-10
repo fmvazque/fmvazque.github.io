@@ -6,6 +6,8 @@
 
 - Desenvolvendo Soluções XML com Visual FoxPro (2002) - Axcel Books (Brazil) - [Amazon.com.br](https://www.amazon.com.br/Desenvolvendo-Solu%C3%A7%C3%B5es-Xml-Visual-Foxpro/dp/8573231777)
 
+![vfp8](/book_vfp8.jpg)
+
 
 ## ARTICLES 
 
