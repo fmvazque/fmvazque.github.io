@@ -1,7 +1,7 @@
 ## BOOKS 
 
-- Visual FoxPro 8 para Desenvolvedores (2003) - Axcel Books (Brazil) 
-- Desenvolvendo Soluções XML com Visual FoxPro (2002) - Axcel Books (Brazil) 
+- Visual FoxPro 8 para Desenvolvedores (2003) - Axcel Books (Brazil) - [Amazon.com.br](https://www.amazon.com.br/Visual-Foxpro-8-Para-Desenvolvedores/dp/8573231971/ref=sr_1_1?dchild=1&qid=1615351890&refinements=p_27%3AVazquez+Fabio&s=books&sr=1-1&text=Vazquez+Fabio)
+- Desenvolvendo Soluções XML com Visual FoxPro (2002) - Axcel Books (Brazil) - [Amazon.com.br](https://www.amazon.com.br/Desenvolvendo-Solu%C3%A7%C3%B5es-Xml-Visual-Foxpro/dp/8573231777)
 
 
 ## ARTICLES 
